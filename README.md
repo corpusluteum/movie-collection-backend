@@ -6,6 +6,8 @@ Client is here : https://github.com/corpusluteum/moviecollectionui
 
 **PoastgreSQL create script with initial data:** [db_movie.sql](files/db_movie.sql)
 
+Database connection settings for the project in application.properties
+
 **TODO:**
 
 * Add client side input validation, toast notification and loader effect
