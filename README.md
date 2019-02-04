@@ -33,3 +33,22 @@ Client is here : https://github.com/corpusluteum/moviecollectionui
 `clean spring-boot:run`: clean and run Spring Boot application
 
 `clean test`: clean and run tests
+
+
+## Client Application
+
+This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app). 
+
+**Techs:** React, react-bootstrap, axios for http requests, and several react components.
+
+**Installing dependencies**
+
+run `npm install` in the client application root directory.
+
+**Scripts**
+
+`npm start` : Runs the app in development mode.
+
+`npm run build` : Builds the app for production to the build folder.
+
+**App URL:** http://localhost:3000
