@@ -1,7 +1,8 @@
-# Movie Collection Backend with Spring MVC
+** Movie Collection Backend with Spring MVC
 ---
 
 Movie Collection is a web application that uses React for client and Spring MVC as backend service. 
+
 Client is here : https://github.com/corpusluteum/moviecollectionui
 
 **MySQL create script with initial data:** [db_movie.sql](files/db_movie.sql)
