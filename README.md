@@ -6,7 +6,7 @@ Client is here : https://github.com/corpusluteum/moviecollectionui
 
 **PoastgreSQL create script with initial data:** [db_movie.sql](files/db_movie.sql)
 
-Database connection settings for the project in application.properties
+ File for database connection configuration: application.properties
 
 **TODO:**
 
