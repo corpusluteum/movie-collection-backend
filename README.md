@@ -1,6 +1,6 @@
-# Movie Collection Backend with Spring MVC
+# Movie Collection RESTful Api with Spring
 
-Movie Collection is a web application that uses React for client and Spring MVC as backend service. 
+Movie Collection is a RESTful application that uses React for client and Spring Boot as backend service. 
 
 Client is here : https://github.com/corpusluteum/moviecollectionui
 
